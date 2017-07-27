@@ -1,0 +1,25 @@
+{
+  "name": "saam",
+  "version": "1.0.0",
+  "description": "SniffAllAroundMe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francescoagostini93/SAAM.git"
+  },
+  "keywords": [
+    "airodump-ng",
+    "sniffer",
+    "security",
+    "embedded"
+  ],
+  "author": "Francesco Agostini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francescoagostini93/SAAM/issues"
+  },
+  "homepage": "https://github.com/francescoagostini93/SAAM#readme"
+}
